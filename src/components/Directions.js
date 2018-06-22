@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-import logo from "../images/logo.png"
-import mailIcon from "../images/mailIcon.png";
-import phoneIcon from "../images/phoneIcon.png";
+
 
 class About extends Component{
     render(){

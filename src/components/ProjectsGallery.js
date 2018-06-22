@@ -7,16 +7,16 @@ class ProjectsGallery extends React.Component {
  
     const images = [
       {
-        original: 'http://lorempixel.com/1000/600/nature/1/',
-        thumbnail: 'http://lorempixel.com/250/150/nature/1/',
+        original: 'static/images/projects/1.png',
+        thumbnail: 'static/images/projects/1thumb.png',
       },
       {
-        original: 'http://lorempixel.com/1000/600/nature/2/',
-        thumbnail: 'http://lorempixel.com/250/150/nature/2/'
+        original: 'static/images/projects/2.png',
+        thumbnail: 'static/images/projects/2thumb.png'
       },
       {
-        original: 'http://lorempixel.com/1000/600/nature/3/',
-        thumbnail: 'http://lorempixel.com/250/150/nature/3/'
+        original: 'static/images/projects/3.png',
+        thumbnail: 'static/images/projects/3thumb.png'
       }
     ]
  
